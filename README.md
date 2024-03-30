@@ -25,7 +25,7 @@ This script allows you to set or reset DNS servers on your Windows system to con
 To set DNS servers to Shekan DNS addresses, run the script with the argument `1`. For example:
 
 ```bash
-python set_dns.py 1
+python SheCan.py 1
 ```
 This will set the DNS servers to Shekan DNS addresses specified in the script.
 
@@ -34,7 +34,7 @@ This will set the DNS servers to Shekan DNS addresses specified in the script.
 To reset DNS servers to obtain automatically, run the script with the argument `0`. For example:
 
 ```bash
-python set_dns.py 0
+python SheCan.py 0
 ```
 This will reset DNS servers to obtain automatically.
 
