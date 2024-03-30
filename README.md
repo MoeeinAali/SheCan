@@ -8,13 +8,13 @@ This script allows you to set or reset DNS servers on your Windows system to con
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/MoeeinAali/shekan-setter/
+    git clone https://github.com/MoeeinAali/SheCan/
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd yourproject
+    cd SheCan
     ```
 4. Make sure you have **administrative privileges** to run the script.
 
