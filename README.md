@@ -1,6 +1,6 @@
 # Set or Reset DNS Servers using Python and PowerShell
 
-This script allows you to set or reset DNS servers on your Windows system to connect to [Shekan](https://shecan.ir/) DNS using Python and PowerShell.
+This script allows you to set or reset DNS servers on your Windows system to connect to [Shecan](https://shecan.ir/) DNS using Python and PowerShell.
 
 ## Installation
 
