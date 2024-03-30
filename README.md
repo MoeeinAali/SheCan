@@ -31,7 +31,7 @@ This will set the DNS servers to Shekan DNS addresses specified in the script.
 
 ### Reset DNS Servers
 
-To reset DNS servers to obtain automatically, run the script with the argument 0. For example:
+To reset DNS servers to obtain automatically, run the script with the argument `0`. For example:
 
 ```bash
 python set_dns.py 0
